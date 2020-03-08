@@ -1,0 +1,12 @@
+New Python 3 Notebooks are here:
+
+https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
+
+
+GIT 
+https://guides.github.com/activities/hello-world/
+
+
+https://help.github.com/en/github/getting-started-with-github/git-and-github-learning-resources
+
+https://try.github.io/

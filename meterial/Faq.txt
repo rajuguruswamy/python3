@@ -1,0 +1,62 @@
+Numbers FAQ 
+=============
+1. What's the difference between floating point and an integer?
+
+An integer has no decimals in it, a floating point number can display digits past the decimal point.
+
+2. Why doesn't 0.1+0.2-0.3 equal 0.0 ?
+
+This has to do with floating point accuracy and computer's abilities to represent numbers in memory. For a full breakdown, check out: https://docs.python.org/2/tutorial/floatingpoint.html
+
+
+Strings FAQ
+=============
+1. Are strings mutable?
+
+Strings are not mutable! (meaning you can't use indexing to change individual elements of a string)
+
+2. How do I create comments in my code?
+
+You can use the hashtag # to create comments in your code
+
+
+https://pyformat.info/
+
+
+Lists FAQ
+=============
+1. How do I index a nested list? For example if I want to grab 2 from [1,1,[1,2]]?
+
+You would just add another set of brackets for indexing the nested list, for example: my_list[2][1] . We'll discover later on more nested objects and you will be quizzed on them later!
+
+Dictionaries FAQ
+
+1. Do dictionaries keep an order? How do I print the values of the dictionary in order?
+
+Dictionaries are mappings and do not retain order! If you do want the capabilities of a dictionary but you would like ordering as well, check out the ordereddict object lecture later on in the course!
+
+
+Resources for More Basic Practice
+=================================
+
+Basic Practice:
+
+http://codingbat.com/python
+
+More Mathematical (and Harder) Practice:
+
+https://projecteuler.net/archives
+
+List of Practice Problems:
+
+http://www.codeabbey.com/index/task_list
+
+A SubReddit Devoted to Daily Practice Problems:
+
+https://www.reddit.com/r/dailyprogrammer
+
+A very tricky website with very few hints and touch problems (Not for beginners but still interesting)
+
+http://www.pythonchallenge.com/
+
+
